@@ -11,7 +11,7 @@ Automatically accept your matches on counter strike 2
 - You can download easely : https://www.python.org/downloads/ <br><br>
 
 **Download the program :**<br>
-- https://github.com/Walkoud/CS2-Auto-Accept/releases/tag/download <br><br>
+- https://github.com/Sdeyy/CS2-Auto-Accept/releases/download/Latest/autoaccept.exe <br><br>
 
 **Open the program, and set the game window CS2 to the front of your screen** 
 <br><br>
